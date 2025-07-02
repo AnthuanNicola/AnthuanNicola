@@ -34,21 +34,9 @@
 
 ---
 
-<!-- Sección: Proyectos destacados -->
-<h2 align="center">🌑 Proyectos destacados</h2>
 
-<ul>
-  <li><a href="https://github.com/AnthuanNicola?tab=repositories&q=php">🔹 Proyectos en PHP</a></li>
-  <li><a href="https://github.com/AnthuanNicola?tab=repositories&q=java">🔹 Proyectos en Java</a></li>
-  <li><a href="https://github.com/AnthuanNicola?tab=repositories&q=python">🔹 Proyectos en Python</a></li>
-  <li><a href="https://github.com/AnthuanNicola?tab=repositories&q=javascript">🔹 Proyectos en JavaScript</a></li>
-  <li><a href="https://github.com/AnthuanNicola?tab=repositories&q=mysql">🔹 Proyectos con MySQL</a></li>
-  <li><a href="https://github.com/AnthuanNicola?tab=repositories&q=html">🔹 Proyectos en HTML5</a></li>
-  <li><a href="https://github.com/AnthuanNicola?tab=repositories&q=css">🔹 Proyectos en CSS3</a></li>
-</ul>
 
----
-
+-
 <!-- Stats e info visual (dark theme) -->
 <h2 align="center">📊 Mis estadísticas de GitHub</h2>
 <p align="center">
@@ -61,9 +49,6 @@
 <!-- Redes sociales con shields -->
 <h2 align="center">🌚 Conecta conmigo</h2>
 <p align="center">
-  <a href="https://twitter.com/tu_usuario" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-191b20?style=for-the-badge&logo=twitter&logoColor=0af7ff"/>
-  </a>
   <a href="https://facebook.com/tu_usuario" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-191b20?style=for-the-badge&logo=facebook&logoColor=0af7ff"/>
   </a>
